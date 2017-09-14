@@ -1,0 +1,18 @@
+{
+  "name": "phantomjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "node_start": "node node_main.js",
+    "casper_start": "casperjs casper_main.js"
+  },
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "cheerio": "^1.0.0-rc.2",
+    "log4js": "^2.3.3",
+    "moment": "^2.18.1",
+    "phantomjs": "^2.1.7",
+    "underscore": "^1.8.3"
+  }
+}

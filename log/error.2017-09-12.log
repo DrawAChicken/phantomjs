@@ -1,0 +1,22 @@
+[2017-09-12 17:57:16.882] [ERROR] default - 打开文件失败！/Users/sss/Desktop/phantomjs/resources/dianying1.json
+[2017-09-12 17:58:03.483] [ERROR] default - 打开文件失败！/Users/sss/Desktop/phantomjs/resources/dianying1.json
+[2017-09-12 18:09:56.947] [ERROR] default - 综艺-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/zongyi1.json
+[2017-09-12 18:10:23.863] [ERROR] default - 综艺-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/zongyi1.json
+[2017-09-12 18:11:28.777] [ERROR] default - 综艺-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/zongyi1.json
+[2017-09-12 18:11:30.416] [ERROR] default - url:http://wap.lol5s.com/tv/40-7.html; 错误信息: ReferenceError: writeFile is not defined
+[2017-09-12 18:12:07.417] [ERROR] default - 综艺-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/zongyi1.json
+[2017-09-12 18:12:09.013] [ERROR] default - url:http://wap.lol5s.com/tv/40-7.html; 错误信息: ReferenceError: startTime is not defined
+[2017-09-12 18:12:39.141] [ERROR] default - 综艺-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/zongyi1.json
+[2017-09-12 18:12:40.627] [ERROR] default - ReferenceError: infoList is not defined
+    at writeFile.then (/Users/sss/Desktop/phantomjs/node_crawling/newParse.js:22:33)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2017-09-12 18:14:38.215] [ERROR] default - 综艺-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/zongyi1.json
+[2017-09-12 18:14:57.432] [ERROR] default - 动漫-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/dongman1.json
+[2017-09-12 18:15:00.211] [ERROR] default - 综艺-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/zongyi1.json
+[2017-09-12 18:23:04.778] [ERROR] default - 动漫-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/dongman1.json
+[2017-09-12 18:23:08.723] [ERROR] default - 综艺-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/zongyi1.json
+[2017-09-12 18:26:37.938] [ERROR] default - 电影-打开文件失败,重新采集！/Users/sss/Desktop/phantomjs/resources/dianying1.json
+[2017-09-12 18:37:51.262] [ERROR] default - 电影-打开文件失败,重新采集！undefined
+[2017-09-12 18:41:33.030] [ERROR] default - 电影-打开文件失败,重新采集！undefined
+[2017-09-12 18:41:46.165] [ERROR] default - 电影-打开文件失败,重新采集！undefined
